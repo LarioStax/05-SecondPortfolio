@@ -1,0 +1,117 @@
+body {
+  background-color: rgb(176,199,213); 
+  /* background-color: rgb(15,32,5); Matrix */
+  /* color: rgb(40,130,20); Matrix */
+}
+
+.card {
+  background-color: rgb(240, 244, 247);
+  /* background-color: rgb(255,255,255); Matrix */
+}
+
+.navbar {
+  background-color: rgb(82, 118, 143);
+  /* background-color: rgb(30, 98, 15); Matrix */
+  font-family: 'Crimson';
+}
+
+button {
+  cursor: pointer;
+}
+
+.navbar-brand {
+  font-size: 125%;
+}
+
+.navbar-brand.navbar-custom{
+  color: rgb(240, 244, 247);
+}
+
+h1, h2, h3 {
+  font-family: Crimson;
+}
+
+#home-container {
+  padding-top: 114px;
+  padding-bottom: 57px;
+  margin: auto;
+  max-width:90%;
+}
+
+
+#about-container {
+  padding-top: 57px;
+  padding-bottom: 57px;
+  margin: auto;
+  max-width:90%;
+}
+
+#projects-container {
+  padding-top: 57px;
+  padding-bottom: 57px;
+  margin: auto;
+  max-width:90%;
+}
+
+#contact-container {
+  padding-top: 57px;
+  padding-bottom: 57px;
+  margin: auto;
+  max-width:90%;
+}
+
+#footer {
+  padding-top: 57px;
+}
+
+#homeText {
+  padding-top: 60px;
+}
+
+.pictureShape {
+  border-radius: 100px;
+  width: 300px;
+}
+
+
+#aboutText {
+  padding-top: 60px;
+}
+
+#contactText {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#homePicture {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.projectDiv {
+  padding-top: 30px;
+}
+
+
+.socialIcon {
+  padding-right: 25px;
+}
+
+.btn {
+  background-color: rgb(82, 118, 143);
+  /* background-color: rgb(30, 98, 15); Matrix */
+  color: rgb(235, 250, 250);
+}
+
+.btn:hover {
+  opacity:0.3;
+}
+
+.fa {
+  color: rgb(82, 118, 143);
+  /* color: rgb(40,130,20); Matrix */
+}
+
+.fa:hover {
+  opacity:0.3;
+}
